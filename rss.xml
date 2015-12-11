@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Angry Lane]]></title>
         <description><![CDATA[Angry Lane]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/angrylane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 08:34:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 08:43:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/angrylane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/525d4d62-dfb7-4de6-a4c3-285e71ea38be.JPG">]]></description>
+            <link>https://thegrid.ai/angrylane/bade8d9c-dcd7-4769-9599-2ebfa1a63888/index.html</link>
+            <guid isPermaLink="false">bade8d9c-dcd7-4769-9599-2ebfa1a63888</guid>
+            <pubDate>Fri, 11 Dec 2015 08:43:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1cd1d89-468b-41c3-8e92-b68542c4c105.jpg">]]></description>
-            <link>undefined01b2bf7c-8919-4c60-a670-65765dc6d99d/index.html</link>
+            <link>https://thegrid.ai/angrylane/01b2bf7c-8919-4c60-a670-65765dc6d99d/index.html</link>
             <guid isPermaLink="false">01b2bf7c-8919-4c60-a670-65765dc6d99d</guid>
             <pubDate>Fri, 11 Dec 2015 08:34:37 GMT</pubDate>
         </item>
