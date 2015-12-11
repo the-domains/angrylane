@@ -1,0 +1,28 @@
+name: Angrylane
+favicon: null
+layout_spectrum: 0.7886828668415546
+typography_spectrum: 0.6891467575915158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7415617823135108
+  lightness: 0.47373152058571577
+  saturation: 0.5720908830408007
+  rhythmicContrast: 0.7959652508143336
+purpose: []
