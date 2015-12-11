@@ -1,7 +1,7 @@
 name: Angrylane
 favicon: null
 layout_spectrum: 0.96596
-typography_spectrum: 0.67022
+typography_spectrum: 0.8802
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#e0e3ef'
     - '#d2c6b7'
   brandStrength: 0.6875
-  lightness: 0.47373152058571577
+  lightness: 0.5
   saturation: 0.5625
-  rhythmicContrast: 0.7959652508143336
+  rhythmicContrast: 0.75
 purpose: []
