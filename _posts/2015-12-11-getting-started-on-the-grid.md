@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-11T03:25:01.864Z'
-dateModified: '2015-12-11T03:24:53.553Z'
+datePublished: '2015-12-11T08:38:36.115Z'
+dateModified: '2015-12-11T08:38:27.077Z'
 title: Ready For Some Action?
 author: []
 sourcePath: _posts/2015-12-11-getting-started-on-the-grid.md
