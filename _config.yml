@@ -1,6 +1,6 @@
 name: Angrylane
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.43166
 typography_spectrum: 0.85266
 title: Angry Lane
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a0a0a'
-    - '#fefefe'
-    - '#60564d'
-    - '#d4cbbb'
-    - '#bdaf95'
+    - '#000000'
+    - '#2e2e30'
+    - '#b8b7bc'
+    - '#fafafa'
+    - '#69696b'
   brandStrength: 0.5625
   lightness: 0.5625
   saturation: 0.75
