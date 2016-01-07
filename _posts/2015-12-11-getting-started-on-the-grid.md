@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-11T09:11:53.627Z'
-dateModified: '2015-12-11T09:11:45.191Z'
-title: Ready For Some Action?
+datePublished: '2016-01-07T01:53:00.821Z'
+dateModified: '2016-01-07T01:52:46.932Z'
+title: Future
 author: []
 sourcePath: _posts/2015-12-11-getting-started-on-the-grid.md
 published: true
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Ready For Some Action?
+# Future
 
 Welcome to The Home of Angry Lane.                                                             We are about high quality leather jackets, apparel, accessories, vintage finds and custom motorcycles. We always love trying something different.             This page is created by Artificial Intelligence. Old motorcycles and products from other eras is what makes us tick, but fuck, we should be riding flying cars already. So here we go, we are beta testing the future of web publishing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f775624-0cca-493d-9388-ad233669a0c3.jpg)
