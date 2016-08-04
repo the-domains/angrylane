@@ -1,20 +1,4 @@
-name: Angrylane
-favicon: null
-layout_spectrum: 0.11867
 typography_spectrum: 0.85266
-title: Angry Lane
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0.75
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.11867
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Angrylane
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Angry Lane
+description: Luxury Wardrobe Staples
 purpose: []
