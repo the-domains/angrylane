@@ -1,25 +1,27 @@
-typography_spectrum: 0.44362225919030607
+typography_spectrum: 0.85266
 color:
   brandColors:
-    - '#FFFEFF'
-    - '#03040D'
-    - '#AAABC4'
-    - '#777A90'
-    - '#555355'
-  brandStrength: 0.5387167616281658
-  lightness: 0.09124860819429159
-  saturation: 0.34169258642941713
-  rhythmicContrast: 0.6969551078509539
+    - '#000000'
+    - '#ffffff'
+    - '#48474c'
+    - '#959597'
+    - '#c3c3c5'
+  brandStrength: 0.5625
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.33518604235723615
+layout_spectrum: 0.11867
 analytics:
   google: null
   facebook: null
   twitter: null
-name: ANGRY LANE
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/513f9411-1760-447e-baed-f3c81051bae0.png
+name: Angry Lane
 cta:
   domain: null
   bucket: null
@@ -28,7 +30,8 @@ navigation:
   - name: About
     url: 'http://www.angrylane.com/pages/about-us'
     type: external
-favicon: null
-title: Angry Lane
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1147e5b1-095c-440b-9357-342e8a863e5a.ico
+title: Luxury Quality Essentials
 description: Luxury Quality Essentials
 purpose: []
