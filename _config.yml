@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: 'http://www.angrylane.com/pages/about-us'
+    type: external
 favicon: null
 title: Angry Lane
 description: Timeless Essentials
