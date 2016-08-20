@@ -1,4 +1,28 @@
+name: Angry Lane
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1147e5b1-095c-440b-9357-342e8a863e5a.ico
+layout_spectrum: 0.45643825456500053
 typography_spectrum: 0.568781585432589
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/513f9411-1760-447e-baed-f3c81051bae0.png
+navigation:
+  - name: About
+    url: 'http://www.angrylane.com/pages/about-us'
+    type: external
+title: The New Classics
+description: Luxury Quality Essentials
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#96CA2D'
@@ -10,28 +34,4 @@ color:
   lightness: 0.43801334616728127
   saturation: 0.22397876577451825
   rhythmicContrast: 0.27266065776348114
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.45643825456500053
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/513f9411-1760-447e-baed-f3c81051bae0.png
-name: Angry Lane
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: About
-    url: 'http://www.angrylane.com/pages/about-us'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1147e5b1-095c-440b-9357-342e8a863e5a.ico
-title: The New Classics
-description: Luxury Quality Essentials
 purpose: []
